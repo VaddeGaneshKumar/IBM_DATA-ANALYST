@@ -14,12 +14,14 @@
 ---
 
 ## 📊 Projects
-
 ### 🏠 Bangalore House Price Prediction
 
 * Built a machine learning model to predict house prices
-* Performed data cleaning and feature engineering
-* Used regression techniques
+* Cleaned and processed real-world dataset
+* Applied Linear Regression algorithm
+* Achieved good prediction performance
+
+🔗 [View Project](./bangalore-house-price/)
 
 ### 📈 Sales Insights Dashboard (Power BI)
 
@@ -32,6 +34,8 @@
 ## 📜 Certifications
 
 * IBM Data Science Professional Certificate
+* Data Analyst Certification (Excel, Power BI)
+
 
 ---
 
